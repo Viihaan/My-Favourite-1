@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background: linear-gradient(#0afae6 100%, #00c414 0%);
+    text-align:center;          
+}
+p{
+font-size:30px;    
+color:forestgreen;        
+}
+#image{
+border-radius:25%;    
+}
